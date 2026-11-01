@@ -269,8 +269,13 @@ music-recommender/
   evaluation/profiles.txt       # Actual five-profile output
   evaluation/weight_experiment.txt
   model_card.md                 # Intended use, evaluation, biases, reflection
+  reflection.md                 # Focused comparisons of the three main profiles
   ai_interactions.md            # Honest account of AI assistance
   SUBMISSION.md                 # Remaining GitHub/course steps
 ```
 
 The implementation, evaluation, model card, and reflection are complete. Publication and course-submission details are tracked in [SUBMISSION.md](SUBMISSION.md).
+
+## Publication and Submission
+
+Published to the [public GitHub repository](https://github.com/chinedu-2002/ai110-module3show-musicrecommendersimulation-starter) and submitted successfully to CodePath on October 31, 2026, at 10:54 PM CDT. The course report shows **Not Graded**, meaning the submission was received and is waiting for grading. See [SUBMISSION.md](SUBMISSION.md) for the confirmation details.

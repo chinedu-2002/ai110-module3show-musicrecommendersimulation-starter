@@ -1,0 +1,23 @@
+{
+  "project": "VibeFinder 1.0 - Music Recommender Simulation",
+  "course": "CodePath AI110",
+  "unit": 7,
+  "project_number": 3,
+  "repository_url": "https://github.com/chinedu-2002/ai110-module3show-musicrecommendersimulation-starter",
+  "repository_visibility": "PUBLIC",
+  "submitted_at_display": "Oct 31 at 10:54pm CDT",
+  "submitted_at_local": "2026-10-31T22:54:00-05:00",
+  "timestamp_precision": "minute, as displayed in the course report",
+  "timezone": "America/Chicago",
+  "course_confirmation": "Thanks! We have received your submission.",
+  "course_status": "Not Graded",
+  "course_status_meaning": "Submission received and waiting to be graded",
+  "tests_passed": 35,
+  "hours_entered": 0.3,
+  "hours_basis": "Approximate elapsed AI-assisted working session, disclosed in submission notes",
+  "verification": [
+    "Anonymous access to published README matched local content",
+    "CodePath submission confirmation",
+    "Course progress report Unit 7 row"
+  ]
+}

@@ -19,7 +19,15 @@ https://github.com/chinedu-2002/ai110-module3show-musicrecommendersimulation-sta
 
 ## Publication and Course Status
 
-GitHub publication is being finalized. Course submission requires an authenticated CodePath browser session and will be recorded here after it is confirmed.
+**GitHub: published and public.** The finished project was pushed to `main`, and an unauthenticated request confirmed that the published README matches the local project.
+
+**CodePath: submitted successfully.** The site confirmed, "Thanks! We have received your submission." The course progress report records Unit 7 as first submitted on **October 31, 2026, at 10:54 PM CDT**, with status **Not Graded**. That status means the submission has been received and is waiting for grading; the displayed 0/21 is not a completed grade.
+
+Submitted repository: https://github.com/chinedu-2002/ai110-module3show-musicrecommendersimulation-starter
+
+The required hours field records **0.3 hours**, an estimate of the observed elapsed AI-assisted working session. The submission notes explicitly identify that estimate and disclose AI assistance.
+
+A machine-readable confirmation summary is saved in [evaluation/submission_receipt.json](evaluation/submission_receipt.json).
 
 The PDF lists a deadline of Sunday, November 1, 2026, at 10:59 PM CST. That date comes from the assignment PDF; the live course page may contain updates.
 

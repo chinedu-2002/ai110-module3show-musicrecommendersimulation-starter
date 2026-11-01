@@ -49,3 +49,7 @@ The assistant chose this structure to make the required sensitivity experiment r
 An independent review checked the assignment requirements and verified that the documented profile outputs and weight experiment match actual CLI runs. Text encoding, line endings, local documentation links, and the source archive were checked before delivery.
 
 These are assistant verification steps. They are not a claim that the student manually tested the program or agreed that the suggestions match their own taste. The existing public fork was discovered during publication, and its prior implementation is preserved through a Git merge. Current publication and course-submission status are recorded in `SUBMISSION.md`.
+
+## Publication and Submission Verification
+
+After the student authorized finishing all remaining work, the assistant used the active GitHub account to publish the completed project to its existing public fork. The earlier fork commit was preserved as a merge parent; the push did not overwrite repository history. An unauthenticated GitHub request verified public access and matching content. After the student completed browser sign-in, the assistant submitted the repository through CodePath and verified both the success message and the Unit 7 report entry, first submitted October 31, 2026, at 10:54 PM CDT with status Not Graded. The required hours entry was 0.3, an elapsed assisted-session estimate explicitly identified as such in the submission notes.
