@@ -255,7 +255,7 @@ The catalog is small and hand-labeled, with unequal coverage across genres. The 
 
 ## Reflection
 
-The [Model Card](model_card.md#9-personal-reflection) contains a project-specific **AI-assisted reflection draft** for the student to review and personalize. [ai_interactions.md](ai_interactions.md) records the actual request, AI assistance, design decisions, and verification without claiming that the student personally performed those checks.
+The [Model Card](model_card.md#9-personal-reflection) includes a completed reflection on the AI-assisted engineering process, the distinction between scoring and ranking, the weight experiment, and the next improvements. [ai_interactions.md](ai_interactions.md) records the actual request, AI assistance, design decisions, and verification.
 
 ## Project Files
 
@@ -273,4 +273,4 @@ music-recommender/
   SUBMISSION.md                 # Remaining GitHub/course steps
 ```
 
-The local implementation and evaluation are complete. Review the reflection, publish the project to your own public fork, and submit its URL through the course site using [SUBMISSION.md](SUBMISSION.md).
+The implementation, evaluation, model card, and reflection are complete. Publication and course-submission details are tracked in [SUBMISSION.md](SUBMISSION.md).
