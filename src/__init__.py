@@ -1,1 +1,1 @@
-﻿"""Music Recommender Simulation package."""
+"""Music Recommender Simulation package."""

@@ -1,0 +1,33 @@
+Loaded songs: 20
+
+=== Baseline ===
+
+Profile: High-Energy Pop
+Preferences: genre=pop, mood=happy, energy=0.80
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Sunrise City - Neon Echo | Score: 3.98
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.98 (+0.98)
+2. Golden Hour Parade - Daylight Avenue | Score: 3.98
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.98 (+0.98)
+3. Neon Goodbye - Electric Letters | Score: 2.92
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.92 (+0.92)
+4. Gym Hero - Max Pulse | Score: 2.87
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.87 (+0.87)
+5. Rooftop Lights - Indigo Parade | Score: 1.96
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.96 (+0.96)
+
+=== Experiment: halve genre weight; double energy weight ===
+
+Profile: High-Energy Pop
+Preferences: genre=pop, mood=happy, energy=0.80
+Weights: genre=1.00, mood=1.00, energy=2.00
+1. Sunrise City - Neon Echo | Score: 3.96
+   Because: genre match (+1.00); mood match (+1.00); energy similarity 0.98 (+1.96)
+2. Golden Hour Parade - Daylight Avenue | Score: 3.96
+   Because: genre match (+1.00); mood match (+1.00); energy similarity 0.98 (+1.96)
+3. Rooftop Lights - Indigo Parade | Score: 2.92
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.96 (+1.92)
+4. Neon Goodbye - Electric Letters | Score: 2.84
+   Because: genre match (+1.00); mood mismatch (+0.00); energy similarity 0.92 (+1.84)
+5. Gym Hero - Max Pulse | Score: 2.74
+   Because: genre match (+1.00); mood mismatch (+0.00); energy similarity 0.87 (+1.74)

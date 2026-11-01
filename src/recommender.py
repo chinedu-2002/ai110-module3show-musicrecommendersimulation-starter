@@ -1,4 +1,4 @@
-﻿"""Load a song catalog and rank it with an explainable weighted content score."""
+"""Load a song catalog and rank it with an explainable weighted content score."""
 
 import csv
 from dataclasses import asdict, dataclass

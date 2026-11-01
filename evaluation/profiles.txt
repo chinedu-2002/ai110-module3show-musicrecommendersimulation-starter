@@ -1,0 +1,71 @@
+Loaded songs: 20
+
+Profile: High-Energy Pop
+Preferences: genre=pop, mood=happy, energy=0.80
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Sunrise City - Neon Echo | Score: 3.98
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.98 (+0.98)
+2. Golden Hour Parade - Daylight Avenue | Score: 3.98
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.98 (+0.98)
+3. Neon Goodbye - Electric Letters | Score: 2.92
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.92 (+0.92)
+4. Gym Hero - Max Pulse | Score: 2.87
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.87 (+0.87)
+5. Rooftop Lights - Indigo Parade | Score: 1.96
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.96 (+0.96)
+
+Profile: Chill Lofi
+Preferences: genre=lofi, mood=chill, energy=0.35
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Library Rain - Paper Lanterns | Score: 4.00
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 1.00 (+1.00)
+2. Midnight Coding - LoRoom | Score: 3.93
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.93 (+0.93)
+3. Focus Flow - LoRoom | Score: 2.95
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.95 (+0.95)
+4. Spacewalk Thoughts - Orbit Bloom | Score: 1.93
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.93 (+0.93)
+5. Coffee Shop Stories - Slow Stereo | Score: 0.98
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.98 (+0.98)
+
+Profile: Deep Intense Rock
+Preferences: genre=rock, mood=intense, energy=0.90
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Storm Runner - Voltline | Score: 3.99
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.99 (+0.99)
+2. Afterburn - Iron Meridian | Score: 3.99
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.99 (+0.99)
+3. Gym Hero - Max Pulse | Score: 1.97
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.97 (+0.97)
+4. Neon Goodbye - Electric Letters | Score: 0.98
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.98 (+0.98)
+5. Salsa Skyline - Barrio Brisa | Score: 0.97
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.97 (+0.97)
+
+Profile: Conflicting: High-Energy Sad Pop
+Preferences: genre=pop, mood=sad, energy=0.90
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Neon Goodbye - Electric Letters | Score: 3.98
+   Because: genre match (+2.00); mood match (+1.00); energy similarity 0.98 (+0.98)
+2. Gym Hero - Max Pulse | Score: 2.97
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.97 (+0.97)
+3. Sunrise City - Neon Echo | Score: 2.92
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.92 (+0.92)
+4. Golden Hour Parade - Daylight Avenue | Score: 2.88
+   Because: genre match (+2.00); mood mismatch (+0.00); energy similarity 0.88 (+0.88)
+5. Velvet Heartbreak - Solstice Letters | Score: 1.58
+   Because: genre mismatch (+0.00); mood match (+1.00); energy similarity 0.58 (+0.58)
+
+Profile: Unknown Genre and Mood
+Preferences: genre=opera, mood=mysterious, energy=0.50
+Weights: genre=2.00, mood=1.00, energy=1.00
+1. Velvet Heartbreak - Solstice Letters | Score: 0.98
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.98 (+0.98)
+2. Red Dirt Goodbye - Juniper Trail | Score: 0.96
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.96 (+0.96)
+3. Midnight Coding - LoRoom | Score: 0.92
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.92 (+0.92)
+4. Focus Flow - LoRoom | Score: 0.90
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.90 (+0.90)
+5. Coffee Shop Stories - Slow Stereo | Score: 0.87
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy similarity 0.87 (+0.87)

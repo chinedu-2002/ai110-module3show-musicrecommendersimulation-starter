@@ -1,4 +1,4 @@
-﻿"""Run reproducible profile demonstrations and a controlled weight experiment."""
+"""Run reproducible profile demonstrations and a controlled weight experiment."""
 
 import argparse
 import csv
