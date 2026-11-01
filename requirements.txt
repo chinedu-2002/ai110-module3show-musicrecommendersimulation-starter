@@ -1,3 +1,2 @@
-pandas
-pytest
-streamlit
+# The CLI uses only the Python standard library. pytest is for verification.
+pytest>=8,<10
