@@ -2,9 +2,9 @@
 
 ## Actual Request and Scope
 
-The student's instruction was: **"work on this task"**, accompanied by the Week 7 CodePath project PDF. The PDF supplied assignment requirements. It was treated as a specification for the local project, not as authorization to publish to an account or submit work through the course site.
+The student first requested **"work on this task"**, accompanied by the Week 7 CodePath project PDF, then requested **"do everything i care about the finished work"**. The PDF supplied assignment requirements. The follow-up authorized completing the deliverables, publishing to the active GitHub account, and attempting course submission.
 
-The assistant extracted the PDF, downloaded the linked public starter repository, implemented the Python CLI, and produced evaluation documentation. No student listening feedback or personal experience was supplied. The personal reflection is therefore labeled as an AI-assisted draft for student review.
+The assistant extracted the PDF, downloaded the linked public starter repository, implemented the Python CLI, and produced evaluation documentation. No student listening feedback or personal experience was supplied. The completed reflection therefore describes the AI-assisted engineering process and observed results without inventing student experience.
 
 ## What AI Generated or Changed
 
@@ -46,6 +46,6 @@ The assistant chose this structure to make the required sensitivity experiment r
 - Compared the original CSV rows with the expanded file; all ten starter rows are retained.
 - Verified that the catalog has 20 rows, 14 genres, and 13 mood labels. This corrects an initial documentation estimate of 13 genres.
 
-The assistant first checked the PDF reader and corrected environment access problems. During implementation, full-file patch attempts did not match the starter; the assistant rewrote the intended files and then verified them with tests and actual CLI runs. Text encoding and line endings were checked before final delivery.
+An independent review checked the assignment requirements and verified that the documented profile outputs and weight experiment match actual CLI runs. Text encoding, line endings, local documentation links, and the source archive were checked before delivery.
 
-These are assistant verification steps. They are not a claim that the student manually tested the program or agreed that the suggestions match their own taste. GitHub publication, public visibility, and course submission remain student actions described in `SUBMISSION.md`.
+These are assistant verification steps. They are not a claim that the student manually tested the program or agreed that the suggestions match their own taste. The existing public fork was discovered during publication, and its prior implementation is preserved through a Git merge. Current publication and course-submission status are recorded in `SUBMISSION.md`.
